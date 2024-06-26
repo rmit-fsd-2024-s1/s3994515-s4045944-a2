@@ -1,7 +1,4 @@
-submission for assignment 2 Repository Link: https://github.com/rmit-fsd-2024-s1/s3994515-s4045944-a2
-
-
-Members: Talvia prante - s3994515 Sarmad Wani - s4045944
+ Repository Link: https://github.com/rmit-fsd-2024-s1/s3994515-s4045944-a2
 
 Before you start:
 
